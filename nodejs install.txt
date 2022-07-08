@@ -1,0 +1,10 @@
+> npm install express
+> npm install cors
+* หรือ npm install express cors
+
+> npm install mongoose
+> npm install body-parser
+* หรือ npm install mongoose body-parser
+
+
+
